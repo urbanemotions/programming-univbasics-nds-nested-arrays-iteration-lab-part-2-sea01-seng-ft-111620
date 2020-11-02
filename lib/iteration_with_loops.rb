@@ -7,5 +7,10 @@ def find_min_in_nested_arrays(src)
   while row_index < src.count do
     element_index = 0 
     lowest_temperature_element = ""
+    while element_index < src[element_index].count do
+      if 
+        daily_lowest_temperature = src[element_index] 
+      end
+    end
   end
 end
