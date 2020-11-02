@@ -18,4 +18,5 @@ def find_min_in_nested_arrays(src)
     row_index += 1 
   end
   daily_lowest_temperature
+  puts daily_lowest_temperature
 end
